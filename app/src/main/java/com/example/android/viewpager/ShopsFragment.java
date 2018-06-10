@@ -24,9 +24,6 @@ import android.widget.ListView;
 
 import java.util.ArrayList;
 
-/**
- * Fragment that displays "Monday".
- */
 public class ShopsFragment extends Fragment {
 
     @Override
@@ -34,21 +31,13 @@ public class ShopsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.fragment, container, false);
 
         final ArrayList<Place> places = new ArrayList<Place>();
-
-        //create Arraylist of Place objects here
         places.add(new Place(getString(R.string.rkioski_name), getString(R.string.rkioski_location), getString(R.string.rkioski_contact), R.drawable.rkioski));
         places.add(new Place(getString(R.string.kukka_name), getString(R.string.kukka_location), getString(R.string.kukka_contact), R.drawable.kukka));
         places.add(new Place(getString(R.string.vanninen_name), getString(R.string.vanninen_location), getString(R.string.vanninen_contact), R.drawable.vanninen));
 
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places);
 
-        // Find the {@link ListView} object in the view hierarchy of the {@link Activity}.
-        // There should be a {@link ListView} with the view ID called list, which is declared in the
-        // word_list.xml layout file.
         ListView listView = (ListView) rootView.findViewById(R.id.listview);
-
-        // Make the {@link ListView} use the {@link WordAdapter} we created above, so that the
-        // {@link ListView} will display list items for each {@link Word} in the list.
         listView.setAdapter(adapter);
 
         return rootView;
