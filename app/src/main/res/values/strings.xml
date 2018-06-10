@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <string name="app_name">Kauklahti Tour Guide</string>
+
+    <string name="shops_category">Shops</string>
+    <string name="restaurants_category">Restaurants</string>
+    <string name="attractions_category">Attractions</string>
+    <string name="recreation_category">Recreation</string>
+
+    <string name="rkioski_name">R-kioski</string>
+    <string name="rkioski_location">Hansatie 3, 02780 Espoo</string>
+    <string name="rkioski_contact">050 4481590</string>
+
+    <string name="kukka_name">Kauklahden Kukka Ky</string>
+    <string name="kukka_location">Kauppamäki 2, 02780 Espoo</string>
+    <string name="kukka_contact">09 811700</string>
+
+    <string name="vanninen_name">Art Vanninen</string>
+    <string name="vanninen_location">Hansatie 3, 02780 Espoo</string>
+    <string name="vanninen_contact">040 0490803</string>
+
+    <string name="brunnsdal_name">Cafe Brunnsdal</string>
+    <string name="brunnsdal_location">Kauppamäki 10, 02780 Espoo</string>
+    <string name="brunnsdal_contact">09 811787</string>
+
+    <string name="pappa_name">Pappa Pizza</string>
+    <string name="pappa_location">Hyttimestarintie 6, 02780 Espoo</string>
+    <string name="pappa_contact">09 4128120</string>
+
+    <string name="halme_name">Halme</string>
+    <string name="halme_location">Kauppamäki 3, 02780 Espoo</string>
+    <string name="halme_contact">09 8194040</string>
+
+    <string name="valhalla_name">Valhalla</string>
+    <string name="valhalla_location">Kauppamäki 10, 02780 Espoo</string>
+    <string name="valhalla_contact">09 810 366</string>
+
+    <string name="bus118_name">The legendary 118 Bussipysäkki</string>
+    <string name="bus118_location">Near the West end of Räävelintie, 02780 Espoo</string>
+    <string name="bus118_contact">09 4128120</string>
+
+    <string name="lumene_name">Lumene Factory</string>
+    <string name="lumene_location">Lasihytti 1 B, 02780 Espoo</string>
+    <string name="lumene_contact">050 5911469</string>
+
+    <string name="koirapuisto_name">Kauklahden Koirapuisto</string>
+    <string name="koirapuisto_location">Hyttimestarinkuja 9, 02780 Espoo</string>
+    <string name="koirapuisto_contact">09 81625000</string>
+
+    <string name="egs_name">Espoon Golfseura</string>
+    <string name="egs_location">Blominmetsäntie 2, 02780 Espoo</string>
+    <string name="egs_contact">0600 418841</string>
+
+    <string name="kirjasto_name">Kauklahden Kirjasto</string>
+    <string name="kirjasto_location">Hansakallio 2, 02780 Espoo</string>
+    <string name="kirjasto_contact">09 81653778</string>
+
+
+</resources>
