@@ -27,6 +27,9 @@ https://espoongolfseura.fi/
 Kirjasto
 http://www.helmet.fi/kauklahdenkirjasto
 
+Vanninen
+https://www.google.fi/maps/place/Art+Vanninen/@60.1894165,24.5970348,2188a,13.1y/data=!3m8!1e2!3m6!1sAF1QipPuwwPZFs-BczPZj-JE-qBWmG106xfAuSSex2tn!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPuwwPZFs-BczPZj-JE-qBWmG106xfAuSSex2tn%3Dw188-h106-k-no!7i4608!8i2592!4m5!3m4!1s0x468df31ab9776b83:0x81effaf18ef2ff0a!8m2!3d60.1894165!4d24.5992235
+
 Valhalla
 http://www.kulttuuriymparistomme.fi/fi-FI/Ajankohtaista/Artikkelit/Rakennusperinnon_hoito/Viisaita_korjausperiaatteita/Onnistunut_korjaus_esimerkkina_seurantal%2837803%29
 
