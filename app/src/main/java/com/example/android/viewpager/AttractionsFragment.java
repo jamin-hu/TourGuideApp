@@ -32,7 +32,7 @@ public class AttractionsFragment extends Fragment {
 
         final ArrayList<Place> places = new ArrayList<Place>();
         places.add(new Place(getString(R.string.valhalla_name), getString(R.string.valhalla_location), getString(R.string.valhalla_contact), R.drawable.valhalla));
-        places.add(new Place(getString(R.string.bus118_name), getString(R.string.bus118_location), getString(R.string.bus118_contact), R.drawable.bus118));
+        places.add(new Place(getString(R.string.bus118_name), getString(R.string.bus118_location), getString(R.string.bus118_contact), R.drawable.bussi118));
         places.add(new Place(getString(R.string.lumene_name), getString(R.string.lumene_location), getString(R.string.lumene_contact), R.drawable.lumene));
 
         PlaceAdapter adapter = new PlaceAdapter(getActivity(), places);

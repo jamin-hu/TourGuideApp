@@ -24,6 +24,8 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
     private Context mContext;
 
+    private static final int nOfCategories = 4;
+
     public SimpleFragmentPagerAdapter(FragmentManager fm, Context context) {
         super(fm);
         mContext = context;
@@ -44,7 +46,7 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public int getCount() {
-        return 4;
+        return nOfCategories;
     }
 
     @Override

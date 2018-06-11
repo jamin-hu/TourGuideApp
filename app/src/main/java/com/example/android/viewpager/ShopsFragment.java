@@ -31,7 +31,7 @@ public class ShopsFragment extends Fragment {
         View rootView = inflater.inflate(R.layout.fragment, container, false);
 
         final ArrayList<Place> places = new ArrayList<Place>();
-        places.add(new Place(getString(R.string.rkioski_name), getString(R.string.rkioski_location), getString(R.string.rkioski_contact), R.drawable.rkioski));
+        places.add(new Place(getString(R.string.rkioski_name), getString(R.string.rkioski_location), getString(R.string.rkioski_contact), R.drawable.r_kioski));
         places.add(new Place(getString(R.string.kukka_name), getString(R.string.kukka_location), getString(R.string.kukka_contact), R.drawable.kukka));
         places.add(new Place(getString(R.string.vanninen_name), getString(R.string.vanninen_location), getString(R.string.vanninen_contact), R.drawable.vanninen));
 
